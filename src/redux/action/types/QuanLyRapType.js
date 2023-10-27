@@ -1,0 +1,3 @@
+export const SET_DANH_SACH_RAP = 'SET_DANH_SACH_RAP';
+export const SET_THONG_TIN_RAP = 'SET_THONG_TIN_RAP';
+export const CHI_TIET_PHIM = 'CHI_TIET_PHIM';

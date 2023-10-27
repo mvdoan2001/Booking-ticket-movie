@@ -1,0 +1,39 @@
+.ghe {
+  width: 35px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px;
+  background-color: rgb(120, 120, 120);
+  color: #fff;
+}
+
+.gheDaDat {
+  background-color: rgb(232, 66, 66);
+  cursor: no-drop;
+}
+
+.gheVip {
+  background-color: rgb(171, 155, 13);
+}
+
+.gheDangDat {
+  background-color: rgb(8, 136, 8) !important ;
+  color: orange;
+}
+
+.gheKhachDat {
+  background-color: rgb(11, 35, 156) !important ;
+  color: orange;
+  cursor: no-drop;
+}
+
+.gheDaDuocDat {
+  background-color: rgb(246, 246, 246);
+  border: 1px solid orange;
+  box-shadow: -4px 1px 36px -6px orange;
+  -webkit-box-shadow: -4px 1px 36px -6px orange;
+  -moz-box-shadow: -4px 1px 36px -6px orange;
+  color: orange;
+}
